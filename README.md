@@ -48,7 +48,8 @@ This script automates the installation and configuration of a WordPress environm
     ```bash
     sudo ./WordPress-AutoInstaller.sh
     ```
-
+###  View full tutorial here: 
+## [WordPress Linux Auto Installer](https://sysnestor.com/wordpress-installation-script/)
 ## Script Details
 
 ### Update and Upgrade
