@@ -35,8 +35,8 @@ This script automates the installation and configuration of a WordPress environm
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/SysNestor/WordPress-AutoInstaller.git
+    cd WordPress-AutoInstaller
     ```
 
 2. **Make the Script Executable**:
