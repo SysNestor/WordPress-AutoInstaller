@@ -103,4 +103,4 @@ Feel free to contribute or make improvements. For issues or enhancements, please
 
 ## Contact
 
-For any questions or feedback, please contact [git@sysnestor.com](mailto:git@sysnestor.com).
+For any questions or feedback, please contact [george@networkwhois.com](mailto:george@networkwhois.com).
